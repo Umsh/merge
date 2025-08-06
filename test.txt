@@ -1,2 +1,3 @@
 Line from feature
 Line from main
+Line from feature2
